@@ -2,23 +2,20 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Chukwuebuka Amadi-Obi
+Chukwuebuka Amadi-Obi
+Electronic Engineering Student
 
 Show Contacts
 
 Email
-richard@example.com
+ebukaamadiobi@gmail.com
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
++353 083 392 3659
 
 Location
-Sacramento, California, USA
+Dublin, Ireland
 
 # navbar
 
