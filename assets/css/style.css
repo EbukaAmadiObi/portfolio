@@ -443,6 +443,12 @@ main {
   font-size: 18px;
 }
 
+.bttm-social-item .social-link {
+  color: var(--light-gray-70);
+  font-size: 30px;
+  
+}
+
 
 .social-item .social-link:hover { color: var(--light-gray); }
 
@@ -554,7 +560,7 @@ main {
   font-weight: var(--fw-3);
   line-height: 1.6;
 }
-
+ 
 
 /**
  * #testimonials 
